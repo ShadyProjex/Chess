@@ -1,0 +1,4 @@
+# ninja log v5
+1	672	1720715201968563912	CMakeFiles/Chess.dir/src/Factory.cpp.o	1b81b248a5f0de04
+2	696	1720715201994730495	CMakeFiles/Chess.dir/src/GamePieces/Rook.cpp.o	704f954b1a96fb70
+1	721	1720715202020689870	CMakeFiles/Chess.dir/src/ChessBoard.cpp.o	44011caffe1dc265
